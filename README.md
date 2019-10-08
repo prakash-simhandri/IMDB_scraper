@@ -11,3 +11,11 @@ Beautifulsoup is python packages for parsing HTML and XML Document.it can we use
 sudo apt-get update && sudo apt-get install python3-pip
 pip3 install beautifulsoup4 
 ```
+# Request libarary
+
+Requests is an Apache2 Licensed HTTP library, written in Python. Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
+
+```
+pip3 install requests
+```
+After finishing installation process above, you can run the tasks, Using python3 IMDb_scraper.py.
