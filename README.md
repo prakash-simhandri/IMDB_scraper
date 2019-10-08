@@ -7,5 +7,7 @@ In this project, I Used Beautiful-soup and Requests library to scrape the detail
 ## BeautifulSoup
 Beautifulsoup is python packages for parsing HTML and XML Document.it can we use extracted data from HTML, which is using for web scraping. so if we're using Linux Based OS, so we have to install Beautifulsoup using following command on your terminal.
 
-```sudo apt-get update && sudo apt-get install python3-pip
-pip3 install beautifulsoup4```
+```
+sudo apt-get update && sudo apt-get install python3-pip
+pip3 install beautifulsoup4 
+```
