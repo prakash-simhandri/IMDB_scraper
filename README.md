@@ -4,4 +4,4 @@ In this project, I Used Beautiful-soup and Requests library to scrape the detail
 
 ## The Requirements
 
-''' BeautifulSoup '''
+# BeautifulSoup
