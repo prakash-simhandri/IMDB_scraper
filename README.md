@@ -18,4 +18,7 @@ Requests is an Apache2 Licensed HTTP library, written in Python. Requests will a
 ```
 pip3 install requests
 ```
-After finishing installation process above, you can run the tasks, Using python3 IMDb_scraper.py.
+After finishing installation process above, you can run the tasks.
+```
+Using python3 IMDb_scraper.py.
+```
